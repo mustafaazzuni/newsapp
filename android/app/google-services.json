@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "46070720327",
+    "project_id": "menafn2021",
+    "storage_bucket": "menafn2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46070720327:android:e5669602ff30058f4e8e62",
+        "android_client_info": {
+          "package_name": "com.menafn.menafn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46070720327-4hmrtko7tt3rjgmbh75q51v1bbo9403a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjbA2XUqwXZ0R-EPQs9WPRyYs4QbtOEI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46070720327-4hmrtko7tt3rjgmbh75q51v1bbo9403a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "46070720327-7r1f89e2cs9m7rlk73q6hsg6ltoank3a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.menafnDevdev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
